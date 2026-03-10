@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1773171981180",
+    "name": "Test User",
+    "email": "test@lamafia.com",
+    "hash": "fd6fa163bef3d25e445a2c21836807f69a975c62a4078539ba32fcca2ccda277",
+    "salt": "7fad0cc264be9ae79f775111954cff01",
+    "plan": "free",
+    "created_at": "2026-03-10T19:46:21.180Z",
+    "avatar_initials": "TE"
+  },
+  {
+    "id": "1773173563733",
+    "name": "Test User",
+    "email": "test2@lamafia.com",
+    "hash": "a1c46529144ee30747fcfd1656ca1f71d66ab47a05cb43956af004e9969bac6c",
+    "salt": "756b8259de5fad95f9004447420c54cd",
+    "plan": "free",
+    "created_at": "2026-03-10T20:12:43.734Z",
+    "avatar_initials": "TE"
+  },
+  {
+    "id": "1773175038601",
+    "name": "Rúben Silva Santana",
+    "email": "silvasantanaruben28@gmail.com",
+    "hash": "db88ed3d7157008e8f52399ea8aade17e9dcf9d3682a873865ec8d6a8c25d165",
+    "salt": "764352855ef03bb489b0336164de27a8",
+    "plan": "free",
+    "created_at": "2026-03-10T20:37:18.601Z",
+    "avatar_initials": "RÚ"
+  },
+  {
+    "id": "1773182754439",
+    "name": "NEX INFO DIGITAL",
+    "email": "nexinfodigital@gmail.com",
+    "hash": "763ea5fa13274994930634274744a3526b402ed0c8ae7a739f84039f3091416a",
+    "salt": "42500c98ce64a07959a994f6c9a29111",
+    "plan": "free",
+    "created_at": "2026-03-10T22:45:54.440Z",
+    "avatar_initials": "NE"
+  },
+  {
+    "id": "1773182859276",
+    "name": "NEX INFO DIGITAL",
+    "email": "nexinfodigitald@gmail.com",
+    "hash": "1c2c1ebd3a6e02c8430c79f6ea25db4b8ffc2789f85b82669bde3ab26fd078a1",
+    "salt": "f890c076a8b02d17509f35004b642deb",
+    "plan": "free",
+    "created_at": "2026-03-10T22:47:39.276Z",
+    "avatar_initials": "NE"
+  },
+  {
+    "id": "1773183820638",
+    "name": "NEX INFO DIGITAL",
+    "email": "nexinfodigivtal@gmail.com",
+    "hash": "571747150d28c9f8910a79b0142089680e735e68058053b91065f25691b60cf7",
+    "salt": "8d602d43d2a2a3ac2f297746cbf3a0ed",
+    "plan": "free",
+    "created_at": "2026-03-10T23:03:40.638Z",
+    "avatar_initials": "NE"
+  },
+  {
+    "id": "1773184912413",
+    "name": "Rúben S Santana",
+    "email": "ruubenex@gmail.com",
+    "hash": "bb19b21ece3b7d43c9c7e6c4e1404333639ae64cb273262b2f4e2dc4db6f8c7d",
+    "salt": "54d563b75d1b07cbe5d0d95efef96086",
+    "plan": "free",
+    "created_at": "2026-03-10T23:21:52.413Z",
+    "avatar_initials": "RÚ"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "page_name": "Golden Truco",
+    "ad_text": "Esse anúncio tem várias versões | Golden Truco | Venha testar suas habilidades no pôquer | O melhor opção de passatempo! | Install Now",
+    "hook": "Venha testar suas habilidades no pôquer",
+    "triggers": [],
+    "copies": 2,
+    "platforms": [
+      "Facebook"
+    ],
+    "start_date": "29 de mai de 2025",
+    "days_running": 285,
+    "is_active": true,
+    "has_multiple_versions": true,
+    "score": 58,
+    "trend": "➡️ Estável",
+    "trend_color": "stable",
+    "cta_text": "Abrir menu suspenso\n​",
+    "media_url": "https://video.fpgz2-1.fna.fbcdn.net/v/t42.1790-2/492026935_1900745563801604_1285878171839217577_n.mp4?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eSesXDNUSHEQ7kNvwGR5Z_F&_nc_oc=AdnHw4gH-9Do_WztaE5sqhWts0XanG6rjCTekG8L6KiXEHTZUfJ_8p0BIMPO3oHvSW8&_nc_zt=28&_nc_ht=video.fpgz2-1.fna&_nc_gid=w6BLRE9LLJenWmbpX_-VMQ&_nc_ss=8&oh=00_AfwpJ6mc73tH_LFXGxgGeLVS26KPB4GXkC2AJYcGsWdovw&oe=69B663E8",
+    "media_type": "video",
+    "ad_link": "https://www.facebook.com/ads/library/?id=1166542481823339",
+    "page_link": "https://www.facebook.com/61553604592490/",
+    "library_id": "1166542481823339",
+    "dest_domain": "",
+    "country": "BR",
+    "folder": "Geral",
+    "id": "1166542481823339",
+    "added_at": "2026-03-10T20:19:43.702Z",
+    "history": [
+      {
+        "date": "2026-03-10",
+        "copies": 2,
+        "score": 58
+      }
+    ]
+  }
+]
