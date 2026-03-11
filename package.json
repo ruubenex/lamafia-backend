@@ -1,22 +1,22 @@
 {
-  "name": "lamafia-spy-backend",
-  "version": "2.4.0",
-  "description": "La Mafia Spy — Backend API",
-  "main": "server.js",
-  "type": "module",
-  "scripts": {
-    "start": "node server.js",
-    "dev": "node --watch server.js",
-    "build": "npx playwright install chromium --with-deps"
-  },
-  "dependencies": {
-    "@supabase/supabase-js": "^2.99.0",
-    "cors": "^2.8.6",
-    "dotenv": "^17.3.1",
-    "express": "^4.22.1",
-    "playwright": "^1.58.2"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  }
+    "name": "lamafia-spy-backend",
+    "version": "2.4.0",
+    "description": "La Mafia Spy - Backend API",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+          "start": "node server.js",
+          "dev": "node --watch server.js",
+          "build": "npx playwright install chromium --with-deps"
+    },
+    "dependencies": {
+          "@supabase/supabase-js": "^2.99.0",
+          "cors": "^2.8.6",
+          "dotenv": "^17.3.1",
+          "express": "^4.22.1",
+          "playwright": "1.52.0"
+    },
+    "engines": {
+          "node": ">=18.0.0"
+    }
 }
